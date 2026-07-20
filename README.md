@@ -1,6 +1,6 @@
 # Hi, I'm **Seda Karana** 👋
 
-### Mobile Software Developer
+### Android Developer
 
 ### About Me
 
