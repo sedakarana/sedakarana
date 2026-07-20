@@ -1,16 +1,22 @@
-## Hi there 👋
+# Hi, I'm **Seda Karana** 👋
 
-<!--
-**sedakarana/sedakarana** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Mobile Software Developer
 
-Here are some ideas to get you started:
+### About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+* 💼 Currently working at **[Limonist Meta](https://www.limonist.com)**
+* 🚀 Contributing to **[Optium](https://optium.com.tr/en)**
+* 📱 Mobile Software Developer specializing in **Android** development.
+* 💻 Building modern mobile applications with **Kotlin** and **Jetpack Compose**.
+* 🌱 Currently improving my skills in **Mobile Architecture, Clean Code, and Backend Integration**.
+* 💬 Ask me about **Android, Kotlin, Jetpack Compose, Firebase, REST APIs, and MVVM**.
+
+---
+
+### Tech Stack
+
+**Mobile:** Kotlin • Jetpack Compose • Android SDK
+
+**Architecture:** MVVM • Clean Architecture • Coroutines • Flow
+
+**Backend & Tools:** Firebase • REST APIs • Git • GitHub • Android Studio • Figma
