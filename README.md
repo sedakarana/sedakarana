@@ -5,7 +5,7 @@
 ### About Me
 
 * 💼 I am currently working at **[Limonist Meta](https://www.limonist.com)**
-* 🚀 I am currently building **[Optium](https://play.google.com/store/apps/details?id=uk.co.limonistmeta.optium&hl=tr)**
+* 🚀 I am currently building **[Optium](https://optium.com.tr/en)**
 * 📱 Mobile Software Developer specializing in **Android** development.
 * 💻 Building modern mobile applications with **Kotlin** and **Jetpack Compose**.
 * 🌱 Currently improving my skills in **Mobile Architecture, Clean Code, and Backend Integration**.
